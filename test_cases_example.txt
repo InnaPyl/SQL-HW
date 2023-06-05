@@ -1,9 +1,0 @@
-ID
-priority
-number of requirement
-summary
-precondition
-test steps 
-expected result
-comments
-
